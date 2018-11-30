@@ -1,0 +1,47 @@
+body {
+	margin:0;
+	padding:0;
+}
+
+nav {
+	background-color: #000000;
+	padding: 0;
+	height: 92px;
+}
+
+nav ul {
+	margin:0;
+	padding:0;
+}
+
+nav ul li {
+	list-style: none;
+	margin:0;
+	padding:20px;
+	display: inline-block;
+	color:white;
+	background-color: black;
+	font-family: sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+nav ul li:hover {
+	cursor: pointer;
+}
+
+
+#logo {
+	font-size: 45px;
+	color:white;
+	font-family: sans-serif;
+	background-color: red;
+	height: 100%;
+	font-weight: normal;
+}
+
+
+#alignr {
+	float: right;
+}
+

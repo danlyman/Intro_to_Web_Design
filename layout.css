@@ -1,0 +1,39 @@
+body {
+	font-family: monospace;
+}
+
+header {
+	background-color: #84adef;
+	position:fixed;
+	display: block;
+	width:100%;
+	top:0;
+	left:0;
+	z-index: 4;
+}
+
+nav {
+	position: fixed;
+	background-color: #2a83fc;
+	left:0px;
+	top:65px;
+	z-index: 4;
+}
+
+main {
+	position: absolute;
+	top:65px;
+	left:120px;
+	z-index: 3;
+	margin-bottom: 100px;
+}
+
+footer {
+	position: fixed;
+	bottom:0;
+	left:0;
+	width: 100%;
+	height: 80px;
+	background-color: slateblue;
+	z-index: 4;
+}
