@@ -1,0 +1,13 @@
+#circle {
+	width:0px;
+	height: 0px;
+	border-width: 200px;
+	border-radius: 200px;
+	border-bottom-color: blue;
+    border-left-color: red;
+    border-right-color: green;
+    border-top-color: yellow;
+    border-style: solid;
+
+    transform: rotate(45deg);
+}
