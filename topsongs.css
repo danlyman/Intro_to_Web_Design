@@ -1,0 +1,55 @@
+body {
+	background-color: #041bce;
+}
+
+h1 {
+	font-family: arial;
+	color:#6bd39a;
+	text-align: center;
+}	
+
+p {
+	font-family: arial;
+	color:#f4d94e;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+a:visited {
+
+	color:#6bd39a;
+	text-decoration: none;
+}
+
+a {
+	color:#f4d94e;
+	text-decoration: none;
+}
+
+ol {
+	color:#6bd39a;
+	font-size: 16px;
+	font-weight: bold;
+	font-family: arial;
+}
+
+ul {
+	font-family: arial;
+	color:#f4d94e;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+nav {
+	background-color: #000000;
+}
+
+nav ul {
+	margin:0;
+	padding:0;
+}
+
+nav ul li {
+	margin:0;
+	padding:.5em 1em;
+}
